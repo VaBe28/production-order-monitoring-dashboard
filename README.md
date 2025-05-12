@@ -1,7 +1,7 @@
 # Production Order Monitoring Dashboard
 
  **Description**  
-An Excel-based dashboard designed to monitor production orders (OF - "Ordens de Fabrico") in real time. It supports dynamic filtering by series, due dates, and order status, offering clear visibility over work center progress and material reservations.
+An Excel (Power Pivot) based dashboard designed to monitor production orders (OF - "Ordens de Fabrico") in real time. It supports dynamic filtering by series, due dates, and order status, offering clear visibility over work center progress and material reservations.
 
 ---
 
@@ -16,16 +16,16 @@ An Excel-based dashboard designed to monitor production orders (OF - "Ordens de 
 ---
 
  **Tech Stack**
-- Microsoft Excel
+- Microsoft Power Pivot
   - Power Query (for data load)
   - VBA (for refresh automation)
 - SQL Server backend (not public)
 
 ---
-**Tecnologias**
-- Microsoft Excel (Power Query + VBA para botão de atualização)
-- Conectividade a SQL Server (não incluída no ficheiro público)
-
+**Data Disclaimer**
+All values are masked to protect confidentiality.
+Real data has been transformed using consistent proportional logic.
+The visual and logical structure remains representative of real-world business scenarios.
 ---
 
 📷 **Screenshot**
