@@ -1,19 +1,27 @@
 # Production Order Monitoring Dashboard
 
- **Descrição**  
-Ferramenta desenvolvida em Excel para monitorização de Ordens de Fabrico (OF), com atualização por botão e filtragem dinâmica por série, datas e estados de produção. Ideal para equipas de planeamento e chão de fábrica.
+ **Description**  
+An Excel-based dashboard designed to monitor production orders (OF - "Ordens de Fabrico") in real time. It supports dynamic filtering by series, due dates, and order status, offering clear visibility over work center progress and material reservations.
 
 ---
 
- **Funcionalidades**
-- Seguimento detalhado por nº de OF, datas e centros de trabalho
-- Visualização de reservas e entregas por operação
-- Alertas de entrega incompleta (códigos coloridos)
-- Filtros por série e estado (Firme / Em Curso)
-- Integração com base de dados via Power Query (não incluída na demo)
+ **Key Features**
+- Detailed tracking by order number, due date, and work center
+- Visual follow-up of material reservations and quantities delivered
+- Color-coded alerts for incomplete deliveries
+- Filtering by series and production status (Firm / In Progress)
+- Integrated refresh button (VBA-powered)
+- Built-in structure for SQL Server connection (not included in demo)
 
 ---
 
+ **Tech Stack**
+- Microsoft Excel
+  - Power Query (for data load)
+  - VBA (for refresh automation)
+- SQL Server backend (not public)
+
+---
 **Tecnologias**
 - Microsoft Excel (Power Query + VBA para botão de atualização)
 - Conectividade a SQL Server (não incluída no ficheiro público)
@@ -25,7 +33,7 @@ Ferramenta desenvolvida em Excel para monitorização de Ordens de Fabrico (OF),
 
 ---
 
-👤 **Autor**
+👤 **Author**
 [Vasco Bento](https://www.linkedin.com/in/vasco--bento)
 
 ---
