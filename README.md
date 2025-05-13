@@ -26,10 +26,9 @@ An Excel (Power Pivot) based dashboard designed to monitor production orders (OF
 - SQL Server backend (not public)
 
 ---
-**Data Disclaimer**
-
-All values are masked to protect confidentiality.
-Real data has been transformed using consistent proportional logic.
+**Data Disclaimer**  
+All values are masked to protect confidentiality.  
+Real data has been transformed using consistent proportional logic.  
 The visual and logical structure remains representative of real-world business scenarios.
 ---
 
